@@ -23,7 +23,7 @@
            <div class="card-body">
              <h5 class="card-title">Polos</h5>
              <p class="card-text">Rastrea la tendencia de tus ventas y del crecimiento de tu negocio. ¡Con Shopify es fácil! Con Shopify cuentas con una plataforma para manejar tu negocio en internet con facilidad..</p>
-             <a href="#" class="btn btn-primary">Añadir al carrito</a>
+             <a href="index.php" class="btn btn-primary">Añadir</a>
              <!---<a href="#" class="btn btn-primary">Añadir al carrito</a>--->
            </div>
          </div>
